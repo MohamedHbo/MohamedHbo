@@ -2,7 +2,7 @@
 
 
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b76112c56cwwm3l2ho62qj1k41g3rwmkddaap212t0t3h&rid=200.gif&ct=g">
 
 <h3 align="center">
   Welcome to Mohamed Sayed's profile!
