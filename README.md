@@ -10,7 +10,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVjNDM4ZmZuMWxtaHoyeTN2emd2YzVocGRvZ2pxMTIyMjYzZGN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"></a>
+  <a href=""><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVjNDM4ZmZuMWxtaHoyeTN2emd2YzVocGRvZ2pxMTIyMjYzZGN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
