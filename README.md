@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVjNDM4ZmZuMWxtaHoyeTN2emd2YzVocGRvZ2pxMTIyMjYzZGN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)">
+<img width="250" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVjNDM4ZmZuMWxtaHoyeTN2emd2YzVocGRvZ2pxMTIyMjYzZGN3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="center">
   Welcome to Yousef Dergham's profile!
@@ -23,7 +23,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-sayed-yousef-95735925a/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100037050065994&mibextid=ZbWKwLhttps://www.facebook.com/profile.php?id=100037050065994&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100037050065994&mibextid=ZbWKwLhttps://www.facebook.com/profile.php?id=100037050065994&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Sayed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
